@@ -1,7 +1,6 @@
 # Códigos da [Carreira Engenheiro Front-end](https://cursos.alura.com.br/career/engenheiro-front-end)
 
 ## Curso Gulp: automação de tarefas front-end
-- Pasta do projeto: projeto
 
 ## Performance Web I: otimizando o front-end
 
